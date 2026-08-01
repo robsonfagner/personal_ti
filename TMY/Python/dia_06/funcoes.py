@@ -19,4 +19,5 @@ def f(x):
 f(10) 
 # %%
 
+print("Olá ubuntu")
 #Teste do git 
