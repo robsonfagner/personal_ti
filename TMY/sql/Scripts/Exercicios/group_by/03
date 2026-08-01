@@ -1,0 +1,13 @@
+-- Qual cliente fez mais transações no ano de 2024?
+
+SELECT idCliente,
+	count(*),
+	count(DISTINCT IdTransacao)
+
+from transacoes
+
+WHERE DtCriacao >= '2024-01-01'
+AND DtCriacao < '31-12-2024'
+	
+GROUP by idCliente
+ORDER by count(*) DESC

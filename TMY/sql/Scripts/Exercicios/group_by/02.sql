@@ -12,5 +12,6 @@ AND qtdePontos > 0
 GROUP BY idCliente	
 ORDER BY sum(QtdePontos) DESC
 
+limit 1
 -- Stop 22:00
 --LIMIT 1
