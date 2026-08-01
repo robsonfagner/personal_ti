@@ -1,0 +1,3 @@
+SELECT 	idCliente ,
+
+from clientes;
