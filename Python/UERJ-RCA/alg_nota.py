@@ -1,4 +1,4 @@
-
+# %%
 
 p1 = int(input("Por favor digite a sua primeira nota: "))
 
@@ -11,4 +11,5 @@ if media >= 7:
 else:
     print(f"Você está reprovado porque sua média foi de {media}, estude mais da próxima vez")
 
-8
+
+# %%
