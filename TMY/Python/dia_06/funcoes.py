@@ -14,9 +14,9 @@ def f(x):
     resultado = 1 + x
     return resultado
 
-#%%
 
-f(10) 
+
+
 # %%
 
-print("Olá ubuntu")
+#Parei no 5:20
