@@ -7,3 +7,5 @@ while count <= 100:
     if resto == 0:
         print(count)
     count += 1
+
+# %%

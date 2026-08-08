@@ -17,3 +17,5 @@ while count <=100:
     #count passa valer 2
 print("Acabou pela segunda vez")
 
+
+# %%
