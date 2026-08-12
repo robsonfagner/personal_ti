@@ -26,3 +26,6 @@ if teste == 0:
 else:
     print("Numero é impar !!!")
 
+#%%
+
+
