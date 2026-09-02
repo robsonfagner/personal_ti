@@ -3,7 +3,7 @@
 
 def juros_compostos(aporte:int, taxa:float, anos:int)->float:
 
-    """
+    """ 
     Juros compostos servem para me encher o saco
      
     Aporte:Numero inteiro que represente um valor em Reais.
@@ -13,6 +13,7 @@ def juros_compostos(aporte:int, taxa:float, anos:int)->float:
     Taxa:Taxa mensal ou ano em porcentagem.
       
     """
+    # Nome = DocString
     return aporte * (1+taxa) ** anos
 
 # %%
