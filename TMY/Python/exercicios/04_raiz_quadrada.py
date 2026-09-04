@@ -1,9 +1,0 @@
-# Faça um programa que receba um número inteiro e calcule sua raiz quadrada e exiba o resultado.
-
-numero = input("Entre com o numero inteiro : ")
-numero = int(numero)
-raiz = numero ** (1 / 2)  # numero ** 05
-
-raiz = round(raiz, 4)
-
-print("Raiz quadrada de", numero, "é", raiz)
